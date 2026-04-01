@@ -1,0 +1,24 @@
+# Секреты и конфигурация
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Сгенерированные аудиофайлы (если они у вас есть)
+audio/
+*.mp3
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
